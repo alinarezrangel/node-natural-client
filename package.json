@@ -1,0 +1,23 @@
+{
+  "name": "node-natura-client-app",
+  "version": "1.0.0",
+  "description": "A client app for Node Natural",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "natural",
+    "node",
+    "natural",
+    "nodenatural",
+    "client",
+    "native",
+    "app",
+    "nativeapp"
+  ],
+  "author": "Alejandro Linarez Rangel",
+  "license": "Apache-2.0"
+}
